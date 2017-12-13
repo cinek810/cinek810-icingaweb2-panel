@@ -1,0 +1,16 @@
+<style>
+.icinga2critical{
+	color: red;
+	font-size: 18pt;
+	text-align: left;
+}
+
+th.icinga2Header{
+	text-align: center;
+	font-size: 18pt;
+}
+</style>
+<table width=100% >
+<tr class="icinga2Header"><th>host</th><th>service</th></tr>
+<tr class="icinga2critical" ng-repeat="x in ctrl.services"><td>{{x.host_name}}</td><td>{{x.service_description}}</td></tr>
+</table>

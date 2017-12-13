@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/module.js"],"names":["Icingaweb2Ctrl"],"mappings":";;;;;;;;AAAQA,oB,oBAAAA,c;;;2BAGNA,c","file":"module.js","sourcesContent":["import {Icingaweb2Ctrl} from './icingaweb2_ctrl';\n\nexport {\n  Icingaweb2Ctrl as PanelCtrl\n};\n"]}

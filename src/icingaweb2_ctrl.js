@@ -30,7 +30,7 @@ export class Icingaweb2Ctrl extends PanelCtrl {
   }
 
   onInitEditMode() {
-    this.addEditorTab('Options', 'public/plugins/cinek810-icingaweb2-panel/editor.html', 2);
+    this.addEditorTab('Options', 'public/plugins/cinek810-icingaweb2-panel/partials/editor.html', 2);
   }
 
   onPanelTeardown() {
@@ -120,4 +120,4 @@ updateList() {
   }
 }
 
-Icingaweb2Ctrl.templateUrl = 'module.html';
+Icingaweb2Ctrl.templateUrl = 'partials/module.html';

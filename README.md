@@ -10,8 +10,8 @@ Connection to API requires external authentications [1] to be enabled in icinga 
 [3]: https://funinit.wordpress.com/2017/08/29/integrating-grafana-with-icinga2/
 
 ## Screenshots 
-![Current view of options tab](https://github.com/cinek810/icingaweb2-panel/raw/editorTab.png")
-![List of services in pane](https://github.com/cinek810/icingaweb2-panel/raw/servicesList.png")
+![Current view of options tab](https://github.com/cinek810/icingaweb2-panel/raw/master/src/img/editorTab.png")
+![List of services in pane](https://github.com/cinek810/icingaweb2-panel/raw/master/src/img/servicesList.png")
 
 
 ## Changelog

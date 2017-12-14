@@ -1,6 +1,10 @@
-.clock-panel {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column;
+.icinga2critical{
+	color: red;
+	font-size: 18pt;
+	text-align: left;
+}
+
+th.icinga2Header{
+	text-align: center;
+	font-size: 18pt;
 }

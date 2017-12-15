@@ -94,7 +94,7 @@ System.register(['app/plugins/sdk', 'lodash', './css/icingaweb2-panel.css!'], fu
         _createClass(Icingaweb2Ctrl, [{
           key: 'onInitEditMode',
           value: function onInitEditMode() {
-            this.addEditorTab('Options', 'public/plugins/cinek810-icingaweb2-panel/editor.html', 2);
+            this.addEditorTab('Options', 'public/plugins/cinek810-icingaweb2-panel/partials/editor.html', 2);
           }
         }, {
           key: 'onPanelTeardown',
@@ -187,7 +187,7 @@ System.register(['app/plugins/sdk', 'lodash', './css/icingaweb2-panel.css!'], fu
 
       _export('Icingaweb2Ctrl', Icingaweb2Ctrl);
 
-      Icingaweb2Ctrl.templateUrl = 'module.html';
+      Icingaweb2Ctrl.templateUrl = 'partials/module.html';
     }
   };
 });

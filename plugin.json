@@ -11,23 +11,23 @@
     },
     "keywords": ["icingaweb2", "panel"],
     "logos": {
-      "small": "src/img/clock_panel_logo.svg",
-      "large": "src/img/clock_panel_logo.svg"
+      "small": "src/img/icon.svg",
+      "large": "src/img/icinga-logo-big.svg"
     },
     "links": [
-      {"name": "Project site", "url": "https://github.com/grafana/clock-panel"},
-      {"name": "MIT License", "url": "https://github.com/grafana/clock-panel/blob/master/LICENSE"}
+      {"name": "Project site", "url": "https://github.com/cinek810/icingaweb2-panel"},
+      {"name": "MIT License", "url": "https://github.com/cinek810/icingaweb2-panel/blob/master/LICENSE"}
     ],
     "screenshots": [
-      {"name": "Showcase", "path": "src/img/screenshot-showcase.png"},
-      {"name": "Options", "path": "src/img/screenshot-clock-options.png"}
+      {"name": "Showcase", "path": "src/img/servicesList.png"},
+      {"name": "Options", "path": "src/img/editorTab.png"}
     ],
-    "version": "0.0.9",
-    "updated": "2017-03-18"
+    "version": "0.0.2",
+    "updated": "2017-12-14"
   },
 
   "dependencies": {
-    "grafanaVersion": "3.x.x",
+    "grafanaVersion": "4.x.x",
     "plugins": [ ]
   }
 }

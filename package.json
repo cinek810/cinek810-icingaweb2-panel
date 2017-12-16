@@ -1,6 +1,6 @@
 {
   "name": "icingaweb2-panel",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Icinga web2 integration panel",
   "main": "src/module.js",
   "scripts": {

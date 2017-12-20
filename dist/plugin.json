@@ -22,7 +22,7 @@
       {"name": "Showcase", "path": "src/img/servicesList.png"},
       {"name": "Options", "path": "src/img/editorTab.png"}
     ],
-    "version": "0.0.2",
+    "version": "0.0.3",
     "updated": "2017-12-14"
   },
 
